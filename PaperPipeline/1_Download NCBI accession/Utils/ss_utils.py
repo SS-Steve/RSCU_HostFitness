@@ -16,7 +16,7 @@ input_folder = ""
 output_folder = ""
 
 # API key for NCBI - Input your NCBI API
-NCBI_API_KEY = "8ad0809ddce384eb810757af76eb9abdce09"
+NCBI_API_KEY = ""
 
 
 ########################################################################################################################
