@@ -3,7 +3,7 @@
 
 ## Overview
 
-RSCU_HostFitness is the Github repository for sharing computational pipelines for manuscript titled 'Predicting viral host codon fitness and path shifting through tree-based learning on codon usage biases and genomic characteristics'.
+RSCU_HostFitness is the Github repository for sharing step-by-step computational pipelines for manuscript titled 'Predicting viral host codon fitness and path shifting through tree-based learning on codon usage biases and genomic characteristics'.
 
 
 ## Features
