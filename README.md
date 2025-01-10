@@ -13,6 +13,12 @@ The folder 'PaperPipeline' contains the computational pipelines for different se
 The folder 'models' contains the trained Random Forest models used in the paper.
 
 
+## Installation
+
+**Clone the repository:**
+git clone https://github.com/SS-Steve/CUB2HostFitness.git
+
+
 ## Publication
 
 S Su, Z Ni, T Lan, P Ping, J Tang, Z Yu, G Hutvagner*, J Li*. Predicting viral host codon fitness and path shifting through tree-based learning on codon usage biases and genomic characteristics.
