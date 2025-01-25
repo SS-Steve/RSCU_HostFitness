@@ -10,6 +10,12 @@ CDS sequences, genomic sequences. Those data are later processed into Ready-to-g
 evalution of HIP. 
 
 
+Origin Data Download:
+
+	The accessions IDs of other different virus genomes were downloaded from NCBI Virus https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/.
+    
+    The pango lineage classification of SARS-CoV-2 were downloaded from https://cov-lineages.org/lineage_list.html.
+
 
 Script files:
 

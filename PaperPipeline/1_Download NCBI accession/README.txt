@@ -1,5 +1,4 @@
-Name
-
+Folder Name
 1. Download NCBI accession
 
 
@@ -23,6 +22,14 @@ Ready-to-go data (RTG_Data) includes:
 	START_STOP.csv   - Start codons and stop codons related data
 	TAXONOMY_RAW.csv - Taxonomy data before encoding
 	TAXONOMY.csv     - Taxonomy data after encoding (1, 0, -1)
+
+
+Origin Data Download:
+
+	The accessions IDs of virus genomes RefSeq were downloaded from NCBI Virus Genomes Resource https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi, 
+	and the file is renamed as 'Viral_genome_browser.csv'. 
+
+	The reference human codon usage was downloaded from https://dnahive.fda.gov/dna.cgi?cmd=codon_usage&id=537&mode=cocoputs. 
 
 
 Script files:
