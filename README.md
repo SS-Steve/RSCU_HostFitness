@@ -16,7 +16,7 @@ The folder 'models' contains the trained Random Forest models used in the paper.
 To get a local copy of this project, run the following command:
 
 ```bash
-git clone https://github.com/SS-Steve/CUB2HostFitness.git
+git clone https://github.com/SS-Steve/RSCU_HostFitness.git
 ```
 
 
